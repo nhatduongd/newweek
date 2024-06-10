@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5333193.css",
+    "main.js": "/static/js/main.587adb64.js",
+    "static/css/827.40ad5625.chunk.css": "/static/css/827.40ad5625.chunk.css",
+    "static/js/827.670d7c47.chunk.js": "/static/js/827.670d7c47.chunk.js",
+    "static/css/983.2fcfdc9b.chunk.css": "/static/css/983.2fcfdc9b.chunk.css",
+    "static/js/983.4797506a.chunk.js": "/static/js/983.4797506a.chunk.js",
+    "static/js/945.b0c21130.chunk.js": "/static/js/945.b0c21130.chunk.js",
+    "static/media/IconTransactionSending.gif": "/static/media/IconTransactionSending.74d1d7a276c520eee9dc.gif",
+    "static/media/AppBackground.png": "/static/media/AppBackground.7ec81b48dff408dc88bb.png",
+    "static/media/Blacklisted.jpeg": "/static/media/Blacklisted.2849a666b959c3153507.jpeg",
+    "static/media/WhitelistBackground.png": "/static/media/WhitelistBackground.cf51e16fbdbf64fca0eb.png",
+    "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.4ee96395e07a04577aab.ttf",
+    "static/media/DMSans-Bold.ttf": "/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
+    "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.150680530af9dd9fd00b.ttf",
+    "static/media/index.cjs": "/static/media/index.76647883fc36d5d518ca.cjs",
+    "static/media/RedAppIcon.png": "/static/media/RedAppIcon.7587fb5085fd979c92d0.png",
+    "static/media/ImageMaskXXLCards.png": "/static/media/ImageMaskXXLCards.9433ce1d1bb087a02244.png",
+    "static/media/IconSolana.png": "/static/media/IconSolana.48703e17e3b051213745.png",
+    "static/media/AppIcon.png": "/static/media/AppIcon.c86a050517d90677acee.png",
+    "static/media/IconWhitelist.png": "/static/media/IconWhitelist.8f894d4e3bae42556232.png",
+    "static/media/ImageMaskXLCards.png": "/static/media/ImageMaskXLCards.ab8b000cbcf4c52ada75.png",
+    "static/media/IconHyperspace.jpeg": "/static/media/IconHyperspace.2fd634fff31e7e49f39f.jpeg",
+    "static/media/IconTransactionUnknown.png": "/static/media/IconTransactionUnknown.c52a1bafce0b065ab706.png",
+    "static/media/IconTransactionCreating.png": "/static/media/IconTransactionCreating.f31ac64e5df3f8154971.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c5333193.css",
+    "static/js/main.587adb64.js"
+  ]
+}
